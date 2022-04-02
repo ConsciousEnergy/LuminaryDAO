@@ -2,7 +2,7 @@
 
 Luminaries are NFTs for the governance of the Luminary DAO Foundation.
 The purpose of the Luminary DAO is the creation of a Decentralized Power Generation Community for Renewable Energy Abundance. 
-Tokenize energy on a public ledger (blockchain) incentivizing a more distributed and sustainable utility power grid.
+Tokenized energy on a public ledger (blockchain) incentivizing a more distributed and sustainable utility power grid.
 The problem and solutions: 
 The general public is unable to sell their electrical power back to a grid at a fair market price. In the energy markets, small contributors to the energy grid have very little say on the bidding for new centralized power generation sites, yet are often being footed for the bill with local taxes. Political lobbyists incentivize infrastructure focus on maximizing ROI without consideration of long term sustainability. For these reasons, many distributed renewable energy markets are restrained in technological development. In addition, having a decentralized power grid ensures stability against a single point of centralized failure.
 
